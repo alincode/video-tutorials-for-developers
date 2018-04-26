@@ -1,4 +1,6 @@
 # video tutorials for developers
+
+### [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 #### GraphQL Tutorial 
 
 * [playlist link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f) 

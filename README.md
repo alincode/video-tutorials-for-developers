@@ -10,12 +10,12 @@ Official playlist for thenewboston Gulp (Gulp.js) Tutorials for Beginners series
 * [playlist link](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGCSvv2N_6jhnEOZnq_419XJ) 
 * video count: 4 
 
-| TODO | title                                                                                                                  | Published At |
-| ---- | ---------------------------------------------------------------------------------------------------------------------- | ------------ |
-| [ ]  | [Gulp (Gulp.js) Tutorial for Beginners - 1 - Download and Installing npm](https://www.youtube.com/watch?v=CxM1RYnCYwM) | 2016-03-16   |
-| [ ]  | [Gulp (Gulp.js) Tutorial for Beginners - 2 - Setting Up a Project](https://www.youtube.com/watch?v=tlxm4eLbTio)        | 2016-03-16   |
-| [ ]  | [Gulp (Gulp.js) Tutorial for Beginners - 3 - Creating Tasks](https://www.youtube.com/watch?v=mZFvhplosMg)              | 2016-03-16   |
-| [ ]  | [Gulp (Gulp.js) Tutorial for Beginners - 4 - Plugins and Sass/SCSS](https://www.youtube.com/watch?v=XXoMaTTG4eg)       | 2016-03-16   |
+| TODO         | title                                                                                                                  | Published At |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------- | ------------ |
+| <li>[ ]</li> | [Gulp (Gulp.js) Tutorial for Beginners - 1 - Download and Installing npm](https://www.youtube.com/watch?v=CxM1RYnCYwM) | 2016-03-16   |
+| <li>[ ]</li> | [Gulp (Gulp.js) Tutorial for Beginners - 2 - Setting Up a Project](https://www.youtube.com/watch?v=tlxm4eLbTio)        | 2016-03-16   |
+| <li>[ ]</li> | [Gulp (Gulp.js) Tutorial for Beginners - 3 - Creating Tasks](https://www.youtube.com/watch?v=mZFvhplosMg)              | 2016-03-16   |
+| <li>[ ]</li> | [Gulp (Gulp.js) Tutorial for Beginners - 4 - Plugins and Sass/SCSS](https://www.youtube.com/watch?v=XXoMaTTG4eg)       | 2016-03-16   |
 
 ### [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 #### GraphQL Tutorial 

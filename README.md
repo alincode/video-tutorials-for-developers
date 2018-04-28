@@ -109,9 +109,10 @@ Official playlist for thenewboston Gulp (Gulp.js) Tutorials for Beginners series
 | [SASS Tutorial #11 - The @Content Keyword](https://www.youtube.com/watch?v=EKvzabk35cU)          | 2016-05-22   |
 | [SASS Tutorial #12 - If Statements](https://www.youtube.com/watch?v=jdzZXF6J664)                 | 2016-05-23   |
 
-### Mise 
 
-* [playlist link](https://www.youtube.com/playlist?list=PLyHOL7sisyL7AYJ7iNriO_XfRvaZdALY4) 
+
+### [Mise](https://www.youtube.com/playlist?list=PLyHOL7sisyL7AYJ7iNriO_XfRvaZdALY4) created by [Ai-Lin Liou](https://www.youtube.com/channel/UCNocT109fqve-csL65sGdSA)
+
 * video count: 2 
 
 | title                                                                                        | Published At |

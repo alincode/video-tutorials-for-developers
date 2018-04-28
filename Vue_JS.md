@@ -1,11 +1,8 @@
 # Vue JS
 
-### [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+#### [Vue JS 2 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) created by [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
-#### Vue JS 2 Tutorial 
-
-* [playlist link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) 
-* video count: 44 
+* video count: 45 
 
 | title                                                                                                          | Published At |
 | -------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -13,6 +10,7 @@
 | [Vue JS 2 Tutorial #2 - The Vue Instance](https://www.youtube.com/watch?v=3ROjxrSa5pk)                         | 2017-04-10   |
 | [Vue JS 2 Tutorial #3 - Data & Methods](https://www.youtube.com/watch?v=2MAoq2-2nnE)                           | 2017-04-10   |
 | [Vue JS 2 Tutorial #4 - Data Binding](https://www.youtube.com/watch?v=xIOwFTCBBDg)                             | 2017-04-13   |
+| [Updated Vue & Firebase Course (Udemy)](https://www.youtube.com/watch?v=KOuRL_KjS1o)                           | 2018-04-27   |
 | [Vue JS 2 Tutorial #5 - Events](https://www.youtube.com/watch?v=DCwOPBxsXDs)                                   | 2017-04-13   |
 | [Vue JS 2 Tutorial #6 - Event Modifiers](https://www.youtube.com/watch?v=VqKjr4I4Fdo)                          | 2017-04-15   |
 | [Vue JS 2 Tutorial #7 - Keyboard Events](https://www.youtube.com/watch?v=Ni6qd0uRoKY)                          | 2017-04-17   |

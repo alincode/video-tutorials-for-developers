@@ -1,10 +1,7 @@
 # jQuery
 
-### [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+#### [jQuery Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNUJ0j6ccnOAcJIPoTRpO4) created by [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
-#### jQuery Tutorials for Beginners 
-
-* [playlist link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNUJ0j6ccnOAcJIPoTRpO4) 
 * video count: 26 
 
 | title                                                                                                               | Published At |

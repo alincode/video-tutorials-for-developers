@@ -1,10 +1,7 @@
 # Regular Expressions
 
-### [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+#### [Regular Expressions (RegEx) Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD) created by [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
-#### Regular Expressions (RegEx) Tutorial 
-
-* [playlist link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD) 
 * video count: 16 
 
 | title                                                                                                                       | Published At |

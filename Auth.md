@@ -1,11 +1,7 @@
 # Auth
 
-### [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+#### [OAuth Login (Passport.js) Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x) created by [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
-
-#### OAuth Login (Passport.js) Tutorial 
-
-* [playlist link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x) 
 * video count: 21 
 
 | title                                                                                                         | Published At |

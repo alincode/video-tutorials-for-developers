@@ -1,10 +1,7 @@
 # MongoDB
 
-### [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+#### [MongoDB Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u) created by [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
-#### MongoDB Tutorial for Beginners 
-
-* [playlist link](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u) 
 * video count: 16 
 
 | title                                                                                           | Published At |
